@@ -1,53 +1,63 @@
+# Account Fake
 
-<h2 align="center">Account forgery or impersonation</h2>
+There are many accounts that impersonate me for profit or may scam other people using my name.
++ Use my readme but put your own link.
++ Build everything repository like me
++ Do everything like me so that people can't tell which is real and which is fake.
+
+
+#### How To Check
+
+##### In general, it can be easily examined. Just looking at the name of the repository is enough.
+* - Link URL
+* - Name 
+* - Follow 
+* - Achievements
 
 
 ---
 
+```sh-session
+YOU CAN CHECK HIS NAME AT " GITHUB: " JAKEEED " >> URL " https://github.com/JakeeeD?tab=repositories " << THIS ACCOUNT FAKE
+```
 
-###  Hello 👋
 
-- In the last couple of months my name has been spoofed to scammer a lot of people
- They stole my public repositories, including Readme.me, and they took it and edited it for themselves.
-which I don't understand why you have to think that I But that's okay, I get it. 
- They probably don't have the knowledge to check their accounts.
+![image](https://user-images.githubusercontent.com/94861415/193285605-c47f7904-47dc-4884-9293-6ea3c41c3b55.png)
 
----
 
-#### 📌 Github Account 
-
-- All the fake accounts impersonating me and corrupting my name.
 
 ---
 
-
-![image](https://user-images.githubusercontent.com/94861415/189486226-9bc963e6-8997-44db-b8f5-f0ad84dbeea3.png)
-
-
-<h2 align="center">https://github.com/JakeeeD </h2>
-
-- This account stole most of my public repositories and copied everything. I've tried to address Github about the DMCA, but no action has been taken.
-
-- https://github.com/JakeeeD/Fivem-EXEC (FAKE) | https://github.com/Fnoberz/Fivem-Source (REAL)
-
-- and including his other archives as well which is like copying and pasting full body
+```sh-session
+THIS IS THE ACCOUNT THAT COPY MOST OF MY REPO & README , HE USED TO DECEIVE OTHERS , BY " IMPERSONATING " 
+```
 
 ---
 
-#### ❗ Fake Account All ( All Copy Readme.me etc..)
 
-- https://github.com/Aprecty/ValorantHack
-- https://github.com/JakeeeD/Injector-Example
-- https://github.com/q0978013180/Spoofer/tree/main/FiveM-Spoofer-main
-- https://github.com/AryuInka/Source_Spoofer
-- https://github.com/XorEaxDaBoss/HWID-Spoofer
-- https://github.com/mvskoo17/zz-landSpoofer
+### 🛑 〢 Account Scammer
 
+- impersonating my name [Account Fake](https://github.com/JakeeeD?tab=repositories) 
 
-🔴 - And there are many other accounts that impersonate me. And a lot of people misunderstand each other.
-  when they were scammed He came up to me as a scammer, which was the funniest thing. and it damages me
-  
+###### - My name wasn't just claimed by one person, it was more than 10+ people and that's why I created this repository. to remind everyone that before trading Please make sure you are talking to the real developer.
+
+#### 📕 〢Other Account Fake
+
+- [Repositories Fake](https://github.com/Aprecty/ValorantHack)
+- [Repositories Fake](https://github.com/JakeeeD/Injector-Example)
+- [Repositories Fake](https://github.com/q0978013180/Spoofer/tree/main/FiveM-Spoofer-main)
+- [Repositories Fake](https://github.com/AryuInka/Source_Spoofer)
+- [Repositories Fake](https://github.com/XorEaxDaBoss/HWID-Spoofer)
+- [Repositories Fake](https://github.com/mvskoo17/zz-landSpoofer)
+- [Readme Fake](https://github.com/DevMarkosM/DevMarkosM)
+- [Readme Fake](https://github.com/icube78/icube)
+- [Repositories Fake](https://github.com/mvskoo17/zz-landSpoofer)
+
+### 🔔〢 More
+
+- In fact, there are about 10-20 more of repo that are fake.
+- [Discord Server](https://discord.gg/3TV8nqUGTt)
+- If anyone is scammed again You must be the most stupid
+
 ---
-
-
 
