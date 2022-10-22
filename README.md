@@ -52,6 +52,8 @@ THIS IS THE ACCOUNT THAT COPY MOST OF MY REPO & README , HE USED TO DECEIVE OTHE
 - [Readme Fake](https://github.com/DevMarkosM/DevMarkosM)
 - [Readme Fake](https://github.com/icube78/icube)
 - [Repositories Fake](https://github.com/mvskoo17/zz-landSpoofer)
+- [Repositorie Fake](https://github.com/Gan02s/Fortnite-AimBot) News ! 
+- [Repositorie Fake](https://github.com/Grantolope/Fortnite-External) News !
 
 ### 🔔〢 More
 
